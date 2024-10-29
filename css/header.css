@@ -1,0 +1,10 @@
+.header {
+    background-color: var(--color-dark-grey);
+    color: black;
+    padding: 20px;
+    justify-items: center;
+}
+
+.logo {
+    max-width: 60px; /* Задайте ширину логотипу */
+}

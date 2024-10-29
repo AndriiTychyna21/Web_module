@@ -1,0 +1,11 @@
+:root {
+    --color-dark-grey: #D8D2C2;
+    --color-light-grey: #FAF7F0;
+    --color-green: #AAB396;
+    --color-brown: #B17457;
+    --color-black: #4A4947;
+
+    --font-size-menu: 36px;
+    --font-size-h1: 38px;
+    --font-size-p: 27px;
+}

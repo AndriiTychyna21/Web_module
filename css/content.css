@@ -1,0 +1,9 @@
+.content {
+    background-color: var(--color-dark-grey);
+    padding: 20px;
+}
+
+.content h1 {
+    margin-bottom: 15px;
+    font-weight: bold;
+}

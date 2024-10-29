@@ -1,0 +1,11 @@
+.photos {
+    background-color: var(--color-black);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.photos img {
+    margin-bottom: 40px;
+}

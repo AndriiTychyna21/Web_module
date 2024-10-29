@@ -1,0 +1,9 @@
+.footer {
+    background-color: var(--color-brown);
+    padding: 10px;
+    height: 65px;
+}
+
+.footer h1 {
+    margin-bottom: 10px;
+}
